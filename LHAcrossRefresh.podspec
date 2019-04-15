@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LHAcrossRefresh"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "An useful across refresh components in iOS."
   s.homepage     = "https://github.com/Dreamsouls/LHAcrossRefresh"
   s.license      = "MIT"
