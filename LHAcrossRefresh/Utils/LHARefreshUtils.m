@@ -3,7 +3,7 @@
  
 //
 //  Created by Dreamsoul on 2018/3/30.
-//  Copyright © 2018年 Youzan. All rights reserved.
+//  Copyright © 2018年 Dreamsoul. All rights reserved.
 //
 
 #import "LHARefreshUtils.h"
